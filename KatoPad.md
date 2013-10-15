@@ -53,9 +53,9 @@ After several years of working in small distributed teams, we realized that chat
 4. ##Get Started
  Here are a few things you can do to get started with Kato.
  
- 1. Say Hi in Support
+ 1. Tell us what you think so far in Support
  2. Open a few more chats and catch up on any missed messages
  3. Tell your coworkers you're Katoing with a few @ mentions
 
 * * *
-Psst, this document is written in Markdwon, you can toggle it on and off by hovering at the top of the message and clicking the Markdown putton. Give it a try :)
+Psst, this document is written in Markdown, you can toggle it on and off by hovering at the top of the message and clicking the Markdown putton. Give it a try :)
