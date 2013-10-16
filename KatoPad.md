@@ -8,7 +8,7 @@ Right now you should see two rooms; they are very special.
 
 1. What is Kato?
 2. What can I do in Kato?
-3. Tell me again about Search
+3. Tell me about Search, again
 4. Get Started
 
 * * *
@@ -45,8 +45,8 @@ After several years of working in small distributed teams, we realized that chat
 
  Kato offers straightforward file and media sharing within the context of a conversation. It is possible to share files with a Dropbox integration, file selection dialog, drag-and-drop, or copy-and-paste.
 
-3. ##Tell me again about Search
- Search is Kato's most important feature. Being able to discover all your communication data means you no longer have to fall back to email for vital communication. Paired with missed message highlighting, we think Kato is the most powerful internal communication tool available today.
+3. ##Tell me about Search, again
+ Search (with a capital S) is Kato's most important feature. Being able to discover all your communication data means you no longer have to fall back to email for vital communication. Paired with missed message highlighting, we think Kato is the most powerful internal communication tool available today.
 
  Go ahead and open search in this room, it's the magnifying glass in the upper right corner. Type in "Kato" and explore all the different instances of it in this document. Whenever you want to reread this document just search "Welcome To Kato" and you'll be right back here.
 
