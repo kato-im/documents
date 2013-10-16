@@ -22,7 +22,7 @@ Right now you should see two rooms; they are very special.
 
 * * *
 
-2. ##What can I do in Kato?
+###2. What can I do in Kato?
  ####Search!
  Online communication often contains the collective memory of your organization. Unfortunately, most of this memory is lost or difficult to find due to poor search, indexing, and discovery tools.
 
