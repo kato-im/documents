@@ -3,8 +3,9 @@ Welcome to Kato
 
 ###This is an introduction to using Kato.
 Right now you should see two rooms; they are very special.
->This room is your KatoPad, a private place for you to record your thoughts
->The room on the left is Support. You can reach Kato central at any time using this room.
+>This room is your **KatoPad**. It's a private place for you to record all your thoughts.
+
+>The room on the left is **Support**. You can reach Kato central at any time using this room.
 
 1. What is Kato?
 2. What can I do in Kato?
