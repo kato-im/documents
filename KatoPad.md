@@ -1,5 +1,5 @@
 Welcome to Kato
----------------
+===============
 
 ##This is an introduction to using Kato.
 Right now you should see two rooms; they are very special.
