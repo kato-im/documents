@@ -24,27 +24,27 @@ Right now you should see two rooms; they are very special.
 * * *
 
 ###2. What can I do in Kato?
- ####Search!
+####Search!
  Online communication often contains the collective memory of your organization. Unfortunately, most of this memory is lost or difficult to find due to poor search, indexing, and discovery tools.
 
  Kato is engineered with fast and powerful search technology from the bottom up. This allows teams to leverage all their previous communication immediately and spend their time working on what they do best.
 
- ####Multiple Conversations
+####Multiple Conversations
  Other messaging software still silos conversations in separate windows. Companies handicap their employees with the task of managing screen real estate instead of communicating freely.
 
  The dashboard design of Kato unifies conversations in one window and centralizes message notifications. The productivity payoff is immediately recognizable. Seeing is believing!
  
- ####Quickly Catch Up
+####Quickly Catch Up
  Email is cumbersome, especially around internal collaboration. The daily grind of handling inbox overload accounts for more wasted time than any other process during the work week.
  
  Merging both real-time and asynchronous communication, Kato intelligently controls the information flow for you. Hours will be saved every day, immediately multiplying the amount your organization can accomplish. Kato is not a new inbox, it simply gets more workflow out of the inbox and into realtime communications to improve productivity.
 
- ####Integrate
+####Integrate
  Businesses often choose a number of separate apps to automate and enhance common tasks but this results in data silos and wasted time finding the right stuff. It can even hurt productivity instead of enhancing it.
 
  In Kato, organizations can pull all these services together and receive real time updates when events in 3rd party systems occur. Kato’s easy-to-use integrations support a number of business cases so every team member stays on the same page.
 
- ####Share Files
+####Share Files
  Sharing files, images, or videos often happens in the context of a conversation. Yet, it is common to see files, images, or videos separated from the surrounding discussion. This causes the attention of the reader to be diverted to another application or website.
 
  Kato offers straightforward file and media sharing within the context of a conversation. It is possible to share files with a Dropbox integration, file selection dialog, drag-and-drop, or copy-and-paste.
