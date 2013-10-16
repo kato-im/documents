@@ -3,9 +3,8 @@ Welcome to Kato
 
 ###This is an introduction to using Kato.
 Right now you should see two rooms; they are very special.
-
--  This room is your KatoPad, a private place for you to record your thoughts
--  The room on the left is Support. You can reach Kato central at any time using this room.
+>This room is your KatoPad, a private place for you to record your thoughts
+>The room on the left is Support. You can reach Kato central at any time using this room.
 
 1. What is Kato?
 2. What can I do in Kato?
@@ -18,7 +17,7 @@ Right now you should see two rooms; they are very special.
  After several years of working in small distributed teams, we realized that chat is the lifeline of our work. We use chat to discuss issues, features, schedules. We use chat to monitor deployments, code commits, and problems with servers. Chat history becomes our documentation, our long-term memory store, the journal of our work.
 
  Eventually it became clear that we complained a lot about the chat services we were using. Our chat didn't stack up to the rest of our development tools. Our fancy dinner was perfect except for the bent aluminum forks.
- 
+
  We wanted a chat tool that works so well we'd forget we're using it. We wanted to read without clicking around. We wanted to search history without walking away from a conversation. We wanted history that never goes away. We wanted to paste code and have it compile on the other end without errors. We wanted a chat service that is as reliable as a landline telephone. We wanted Kato.
 
 * * *
