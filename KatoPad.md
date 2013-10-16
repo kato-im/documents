@@ -6,14 +6,14 @@ Right now you should see two rooms; they are very special.
 -  This room is your KatoPad, a private place for you to record your thoughts
 -  The room on the left is Support. You can reach Kato central at any time using this room.
 
-1. [What is Kato?](#abcd)
+1. [What is Kato?](#1. What is Kato?)
 2. What can I do in Kato?
 3. Tell me about Search, again
 4. Get Started
 
 * * *
 
-###1. <a id="abcd"></a>What is Kato?
+###1. What is Kato?
  After several years of working in small distributed teams, we realized that chat is the lifeline of our work. We use chat to discuss issues, features, schedules. We use chat to monitor deployments, code commits, and problems with servers. Chat history becomes our documentation, our long-term memory store, the journal of our work.
 
  Eventually it became clear that we complained a lot about the chat services we were using. Our chat didn't stack up to the rest of our development tools. Our fancy dinner was perfect except for the bent aluminum forks.
