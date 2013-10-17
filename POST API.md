@@ -10,7 +10,7 @@ JSON object format:
        "from": "Walter",
         "color": "red",
         "renderer": "markdown",
-        "text": "@Donny, you're out of your element!"
+        "text": "@Donny, you're out of your __element!__"
     }
     
 All parameters but text are optional.
