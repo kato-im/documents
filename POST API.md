@@ -12,7 +12,11 @@ JSON object format:
         "renderer": "markdown",
         "text": "@Donny, you're out of your **element!**"
     }
-    
-All parameters but text are optional.
--  color is any html color
--  renderer can be default or markdown.
+
+###Required
+-  "text": message content to be pushed to the Kato room.
+
+###Optional
+-  "from": who is sending the message into the room.
+-  "color": the background color of the message. Can be any html color.
+-  "renderer": how the message is displayed, can be default or markdown.
