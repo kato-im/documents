@@ -5,7 +5,7 @@ Kato users can push their own notifications using the HTTP POST method.
 
 Here's a sample POST:
 
-    POST @donny_element.txt https://api.kato.im/rooms/{Kato room-specific URL}/simple "Content-Type:application/json"
+    curl -s --data "{\"from\":\"Walter\", \"color\": \"red\", \"renderer\": \"markdown\", \"text\": \"@Donny, you're out of your **element!**\"}" --request POST https://api.kato.im/rooms/[Kato room-specific URL]/simple
 
 ##Input
 
