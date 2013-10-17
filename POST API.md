@@ -14,9 +14,9 @@ JSON object format:
     }
 
 ###Required
--  "text": message content to be pushed to the Kato room.
+-  __"text":__ message content to be pushed to the Kato room.
 
 ###Optional
--  "from": who is sending the message into the room.
--  "color": the background color of the message. Can be any html color.
--  "renderer": how the message is displayed, can be default or markdown.
+-  __"from":__ who is sending the message into the room.
+-  __"color":__ the background color of the message. Can be any html color.
+-  __"renderer":__ how the message is displayed, can be default or markdown.
