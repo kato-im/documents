@@ -24,7 +24,7 @@ Sample POST:
         "text": "@Donny, you're out of your **element!**"
     }
 
-##Response
+##Response (needs to be updated)
 
     HTTP/1.1 200 OK
     Content-Type: application/json; charset=utf-8
