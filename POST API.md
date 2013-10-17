@@ -1,7 +1,7 @@
 HTTP POST API
 =============
 
-Here's a sample POST:
+Sample POST:
 
     curl -X POST -d @element.json https://api.kato.im/rooms/{Kato room-specific URL}/simple --header "Content-Type:application/json"
 
