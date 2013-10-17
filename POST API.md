@@ -3,7 +3,7 @@ HTTP POST API
 
 Here's a sample POST:
 
-    curl -X POST -d @donny_element.json https://api.kato.im/rooms/[Kato room-specific URL]/simple --header "Content-Type:application/json"
+    curl -X POST -d @element.json https://api.kato.im/rooms/{Kato room-specific URL}/simple --header "Content-Type:application/json"
 
 ##Input
 
@@ -16,7 +16,7 @@ Here's a sample POST:
 -  __"renderer":__ how the message is displayed, can be default or markdown.
 
 ###JSON object format:
-    donny_element.json
+    element.json
     {
         "from": "Walter",
         "color": "red",
