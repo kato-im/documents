@@ -7,7 +7,7 @@ You can POST with application/json content type to your Kato room-specific URL.
 JSON object format:
     
     {
-       "from": "Walter",
+        "from": "Walter",
         "color": "red",
         "renderer": "markdown",
         "text": "@Donny, you're out of your **element!**"
