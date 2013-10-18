@@ -16,7 +16,7 @@ Sample POST:
 -  __"renderer":__ how the message is displayed, can be default or markdown.
 
 ###JSON object format:
-    element.json
+element.json
     {
         "from": "Walter",
         "color": "red",
