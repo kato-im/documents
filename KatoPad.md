@@ -8,7 +8,7 @@ Right now you should see two rooms; they are very special.
 
 1. [What is Kato?](#description)
 2. [What can I do in Kato?](#overview)
-3. [Tell me about Search, again](#search)
+3. [Tell me about Search, again](#searching)
 4. [Get Started](#start)
 
 * * *
@@ -50,7 +50,7 @@ Right now you should see two rooms; they are very special.
 
 * * *
 
-<h3 id="search">3. Tell me about Search, again</h3>
+<h3 id="searching">3. Tell me about Search, again</h3>
  Search (with a capital S) is Kato's most important feature. Being able to discover all your communication data means you no longer have to fall back to email for vital communication. Paired with missed message highlighting, we think Kato is the most powerful internal communication tool available today.
 
  Go ahead and open search in this room, it's the magnifying glass in the upper right corner. Type in "Kato" and explore all the different instances of it in this document. Whenever you want to reread this document just search "Welcome To Kato" and you'll be right back here.
