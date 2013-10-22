@@ -26,7 +26,7 @@ element.json
 -  __"color":__ the background color of the message. Can be any html color.
 -  __"renderer":__ how the message is displayed, can be default or markdown.
 
-##Response (needs to be updated)
+##Response
 
     HTTP/1.1 200 OK
     Content-Type: application/json; charset=utf-8
