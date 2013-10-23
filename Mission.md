@@ -8,9 +8,9 @@ Communication should facilitate action, not impede it. We’re empowering teams 
 
 Principles
 ----------
--  ###Searchable
+###Searchable
  Remembering when and where conversation took place is our job, not yours.
--  ###Reliabiable
+###Reliabiable
  Ensuring availability is essential to communicating and establishes trust.
--  ###Efficient
+###Efficient
  Making the experience as powerful and seamless as possible liberates wasted time.
