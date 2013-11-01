@@ -5,15 +5,16 @@ Welcome to Kato
 Right now you should see two rooms; they are very special.
 -  This room is your **KatoPad**. It's a private place for you to record all your thoughts.
 -  The room on the left is **Support**. You can reach Kato central at any time using this room.
+<a name="toc"></a>
 
-1. [What is Kato?](#description)
-2. [What can I do in Kato?](#overview)
-3. [Tell me about Search, again](#searching)
-4. [Get Started](#start)
+1. [What is Kato?](#description "Jump to section 1")
+2. [What can I do in Kato?](#overview "Jump to section 2")
+3. [Tell me about Search, again](#searching "Jump to section 3")
+4. [Get Started](#start "Jump to section 4")
 
 * * *
 
-<h3 id="description">1. What is Kato?</h3>
+<a name="description"></a><h3 id="description">[^](#toc "Jump to TOC") 1. What is Kato?</h3>
  After several years of working in small distributed teams, we realized that chat is the lifeline of our work. We use chat to discuss issues, features, schedules. We use chat to monitor deployments, code commits, and problems with servers. Chat history becomes our documentation, our long-term memory store, the journal of our work.
 
  Eventually it became clear that we complained a lot about the chat services we were using. Our chat didn't stack up to the rest of our development tools. Our fancy dinner was perfect except for the bent aluminum forks.
@@ -22,7 +23,7 @@ Right now you should see two rooms; they are very special.
 
 * * *
 
-<h3 id="overview">2. What can I do in Kato?</h3>
+<a name="overview"></a><h3 id="overview">[^](#toc "Jump to TOC") 2. What can I do in Kato?</h3>
 ####Search!
  Online communication often contains the collective memory of your organization. Unfortunately, most of this memory is lost or difficult to find due to poor search, indexing, and discovery tools.
 
@@ -50,14 +51,14 @@ Right now you should see two rooms; they are very special.
 
 * * *
 
-<h3 id="searching">3. Tell me about Search, again</h3>
+<a name="searching"></a><h3 id="searching">[^](#toc "Jump to TOC") 3. Tell me about Search, again</h3>
  Search (with a capital S) is Kato's most important feature. Being able to discover all your communication data means you no longer have to fall back to email for vital communication. Paired with missed message highlighting, we think Kato is the most powerful internal communication tool available today.
 
  Go ahead and open search in this room, it's the magnifying glass in the upper right corner. Type in "Kato" and explore all the different instances of it in this document. Whenever you want to reread this document just search "Welcome To Kato" and you'll be right back here.
 
 * * *
 
-<h3 id="start">4. Get Started</h3>
+<a name="start"></a><h3 id="start">[^](#toc "Jump to TOC") 4. Get Started</h3>
  Here are a few things you can do to get started with Kato.
  
  1. Tell us what you think so far in Support
@@ -66,4 +67,4 @@ Right now you should see two rooms; they are very special.
 
 * * *
 
-Psst, this document is written in Markdown, you can toggle it on and off by hovering at the top of the message and clicking the Markdown putton. Give it a try :)
+Psst, this document is written in Markdown, you can toggle it on and off by hovering at the top of the message and clicking the Markdown button. Give it a try :)
