@@ -3,7 +3,7 @@ HTTP POST API
 
 Sample POST:
 
-    curl -X POST -d @element.json https://api.kato.im/rooms/{Kato room-specific URL}/simple --header "Content-Type:application/json"
+    curl -X POST -d @element.json https://api.kato.im/rooms/{Kato room id}/simple --header "Content-Type:application/json"
     
 
 ##Input
