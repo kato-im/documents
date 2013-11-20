@@ -42,7 +42,7 @@ Right now you should see two rooms; they are very special.
 ####Integrate
  Businesses often choose a number of separate apps to automate and enhance common tasks but this results in data silos and wasted time finding the right stuff. It can even hurt productivity instead of enhancing it.
 
- In Kato, organizations can pull all these services together and receive real time updates when events in 3rd party systems occur. Kato’s easy-to-use integrations support a number of business cases so every team member stays on the same page.
+ In Kato, organizations can pull all these services together and receive real time updates when events in 3rd party systems occur. Kato’s easy-to-use [integrations](kato.quora.com/Kato-Integrations-List) support a number of business cases so every team member stays on the same page.
 
 ####Share Files
  Sharing files, images, or videos often happens in the context of a conversation. Yet, it is common to see files, images, or videos separated from the surrounding discussion. This causes the attention of the reader to be diverted to another application or website.
