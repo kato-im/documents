@@ -42,7 +42,7 @@ Right now you should see two rooms; they are very special.
 ####Integrate
  Businesses often choose a number of separate apps to automate and enhance common tasks but this results in data silos and wasted time finding the right stuff. It can even hurt productivity instead of enhancing it.
 
- In Kato, organizations can pull all these services together and receive real time updates when events in 3rd party systems occur. Kato’s easy-to-use [integrations](kato.quora.com/Kato-Integrations-List) support a number of business cases so every team member stays on the same page.
+ In Kato, organizations can pull all these services together and receive real time updates when events in 3rd party systems occur. Kato’s easy-to-use [integrations](docs.kato.im/collection/1-integrations) support a number of business cases so every team member stays on the same page.
 
 ####Share Files
  Sharing files, images, or videos often happens in the context of a conversation. Yet, it is common to see files, images, or videos separated from the surrounding discussion. This causes the attention of the reader to be diverted to another application or website.
@@ -55,6 +55,8 @@ Right now you should see two rooms; they are very special.
  Search (with a capital S) is Kato's most important feature. Being able to discover all your communication data means you no longer have to fall back to email for vital communication. Paired with missed message highlighting, we think Kato is the most powerful internal communication tool available today.
 
  Go ahead and open search in this room, it's the magnifying glass in the upper right corner. Type in "Kato" and explore all the different instances of it in this document. Whenever you want to reread this document just search "Welcome To Kato" and you'll be right back here.
+ 
+ You can even search across all rooms with Global Search. There's a magnifying glass above your roster. Clicking it will expand your roster search and allow you to dive deep into all the communication that's ever flown through Kato. It can be really powerful, so don't forget to try it out once your team gets katoing!
 
 * * *
 
