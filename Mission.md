@@ -1,6 +1,6 @@
 Mission Statement
 =================
-__Kato exists to inspire elegant communication.__
+###Kato exists to inspire elegant communication.
 
 Beliefs
 -------
