@@ -8,7 +8,7 @@ Communication should facilitate action, not impede it. We’re empowering teams 
 
 Principles
 ----------
-Our people and product will be:
+Our people & product will be:
 ###Reliabiable
  Ensuring availability is essential to communicating and establishes trust.
  
