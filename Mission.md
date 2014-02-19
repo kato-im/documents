@@ -22,4 +22,4 @@ Our people and product will be:
 ###Searchable
  Remembering when and where conversation took place is our job, not yours.
  
- Knowledge management is the heart of Kato.
+ Knowledge management is at the heart of Kato.
